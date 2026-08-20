@@ -1,0 +1,22 @@
+[project]
+name = "asisten-diet-virtual-v1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "UnknownAl123", email = "kingsignebail@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "google-genai>=2.19.0",
+    "loguru>=0.7.3",
+    "python-dotenv>=1.2.3",
+    "supabase>=2.31.0",
+]
+
+[project.scripts]
+asisten-diet-virtual-v1 = "asisten_diet_virtual_v1:main"
+
+[build-system]
+requires = ["uv_build>=0.12.1,<0.13.0"]
+build-backend = "uv_build"

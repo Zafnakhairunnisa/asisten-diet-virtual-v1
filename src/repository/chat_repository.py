@@ -43,7 +43,7 @@ class ChatRepository:
 
         result = self.supabase.table("chat_users").insert({
             "user_id": user_id,
-            "user_name": user_name,
+            "username": user_name,
             "chat_id": chat_id
         }).execute()
 

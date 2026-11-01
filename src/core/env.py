@@ -26,3 +26,4 @@ GEMINI_MODEL = _required_env("GEMINI_MODEL")
 SUPABASE_URL = _required_env("SUPABASE_URL")
 SUPABASE_KEY = _required_env("SUPABASE_KEY")
 
+

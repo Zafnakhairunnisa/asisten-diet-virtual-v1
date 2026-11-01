@@ -1,0 +1,49 @@
+Kalimat: nasi putih 3 sendok
+nasi putih, 45.0 gram, 80.1 kalori
+Total kalori: 80.1
+Asumsi: Nasi putih 3 sendok makan diasumsikan setara dengan 45 gram (15 gram per sendok makan).
+[
+  {
+    "food_estimations": [
+      {
+        "food_item": "nasi putih",
+        "portion_grams": 45.0,
+        "estimated_calories": 80.1,
+        "fat_grams": 0.045,
+        "protein_grams": 0.945,
+        "carbohydrate_grams": 18.27,
+        "reference_food_ids": [
+          108
+        ]
+      }
+    ],
+    "assumptions": "Nasi putih 3 sendok makan diasumsikan setara dengan 45 gram (15 gram per sendok makan).",
+    "total_calories": 80.1
+  }
+]
+----------------------------------------
+Kalimat: telur ayam rebus 2 butir
+telur ayam rebus, 100.0 gram, 162.0 kalori
+Total kalori: 162.0
+Asumsi: 2 butir telur ayam rebus diasumsikan memiliki berat total 100 gram (sekitar 50 gram per butir).
+[
+  {
+    "food_estimations": [
+      {
+        "food_item": "telur ayam rebus",
+        "portion_grams": 100.0,
+        "estimated_calories": 162.0,
+        "fat_grams": 11.5,
+        "protein_grams": 12.8,
+        "carbohydrate_grams": 0.7,
+        "reference_food_ids": [
+          1213
+        ]
+      }
+    ],
+    "assumptions": "2 butir telur ayam rebus diasumsikan memiliki berat total 100 gram (sekitar 50 gram per butir).",
+    "total_calories": 162.0
+  }
+]
+----------------------------------------
+Kalimat: tempe goreng 2 buah
